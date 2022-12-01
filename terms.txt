@@ -1,0 +1,13 @@
+Syntax - The ordering and structure of code
+Output - The stuff that we see from our computers
+Strings - A sequence of characters
+Comments - Lines of words and other stuff for a programmer to read without the computer reading. Comments are
+           ignored by the computer
+Concatonation - A bite off of strings. The combination of two or more strings  + sign
+Input - what you put into the computer, by a user
+Variables - 
+Data Types - 
+
+
+python3 file.py to run fiiles
+python -u file.py
